@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<feature>
+    <product-id>CNA 403 3839</product-id>
+    <feature-name>Ericsson-NR-and-LTE-Timing-Advance-Analysis</feature-name>
+    <release>22.4</release>
+    <system-area>NR and LTE/NR-and-LTE-Timing-Advance</system-area>
+    <datasource-guid>453b1b48-81b9-46d3-8858-5bf3ab700219</datasource-guid>
+    <ericsson-library>true</ericsson-library>
+</feature>
